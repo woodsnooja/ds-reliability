@@ -1,7 +1,5 @@
 # Core Skills - Data science in reliability course
 
-Welcome to the program. This document describes how to access course content and help.
-
 ## About this course
 
 Reliability analysis on in-service assets uses well-established methods to, for example, determine mean-time-to-failure (MTTF) estimates or identify failure modes. However, the data inputs to these calculations depend on how the raw data from maintenance repair records has been processed. Processes to extract and clean raw maintenance data are often ad hoc and performed differently by each engineer. As a result calculations for asset reliability measures and identification of historical events and failure modes are difficult to replicate. Currently, the process is manual, time-consuming and not scalable. 
