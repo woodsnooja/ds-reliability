@@ -30,6 +30,10 @@ The code blocks are used to demonstrate the data processing and calculations. Th
 
 Participants in the course will use three browser windows, one accessing the Notebooks (for content), one for Menti (for anonymised Q&A) and one for Teams (to communicate with the presenters and other participants).
 
+## Acknowledgement of use of the Python Reliability package
+
+We acknowledge use of this code from the reliability - A Python library for Reliability engineering web page at https://reliability.readthedocs.io/en/latest/. The reliability package is licensed under the LGPLv3. Under the LGPLv3 license, the use of reliability is FREE and unrestricted for both individuals and commercial users. We have made use of code snippets from this reliability package through out this course. The GitHub page for this is https://github.com/MatthewReid854/reliability
+
 ## About your presenters
 
 ### Tyler Bikaun: 
