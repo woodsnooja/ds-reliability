@@ -36,6 +36,8 @@ We acknowledge use of this code from the reliability - A Python library for Reli
 
 ## About your presenters
 
+This course has been developed by Tyler Bikaun and Melinda Hodkiewicz. It draws on Melinda's experience as a practicing maintenance engineer and lecturer in asset management, maintenance and reliability over the last 30 years,  the tools and processes developed by Tyler during his PhD study as well as tools and processes developed by the Centre for Transforming Maintenance through Data Science and the NLP-TLP group at UWA. Links at https://www.maintenance.org.au/ and https://nlp-tlp.org/
+
 ### Tyler Bikaun: 
 
 Industrial Maintenance | Mechanical Engineer - PhD program in Technical Languaage Processing
