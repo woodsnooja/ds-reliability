@@ -24,7 +24,7 @@ At the end of this course participants should be able to:
 
 ## Getting access
 
-All course content is delivered using a virtual cloud server using Jupyter notebooks. Examples of these notebooks are available on this Gitsite. These are comprised of text and Python code blocks. 
+All course content is delivered using a virtual cloud server using Jupyter notebooks. Examples of these notebooks are available on this Gitsite. These are comprised of text and Python code blocks. If you are new to Jupyter notebook please see section [Jupyter notebook fundamentals](#ipynb-fundamentals) at the end of this readme.
 
 The code blocks are used to demonstrate the data processing and calculations. There is no need to be able to code in Python yourself. 
 
@@ -74,3 +74,6 @@ All contact should be made to Tamryn at tamryn@corehub.com.au
 ## License 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+
+<h2 id="ipynb-fundamentals">Jupyter notebook fundamentals</h2>
+This course will be entirely ran out of Jupyter notebooks which are interactive, online, environments that use the Python programming language. Before the course commences, it is strongly recommended that you get acquianted with the basics of using Jupyter notebooks. There are many resources online that cover its usage including [Data Quest - Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) and [RealPython - Jupyter Notebook Introduction](https://realpython.com/jupyter-notebook-introduction/). Do not worry about the details of setting up these notebooks as they will be set up online and managed by CORE, but an understanding of the ways-of-working will be very beneficial to the flow of this course.
