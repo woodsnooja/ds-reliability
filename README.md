@@ -1,4 +1,4 @@
-# Core Skills - Data science in reliability course
+# CORE Skills - Data science in reliability course
 
 ## About this course
 
