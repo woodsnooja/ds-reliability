@@ -1,6 +1,4 @@
-practice_text = "[PM] change out idler bearing."
+a3b2a_text_tokens_punkt = word_tokenize(a3b2a_text)
+a3b2a_text_phrases = phrase_model[practice_text_tokens_punkt]
 
-practice_text_tokens_punkt = word_tokenize(practice_text)
-practice_text_phrase = phrase_model[practice_text_tokens_punkt]
-
-print(f'{practice_text_tokens_ws}\n{practice_text_phrase}')
+print(f'Tokens: {a3b2a_text_tokens_punkt}\nPhrases: {a3b2a_text_phrases}')
