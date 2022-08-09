@@ -1,0 +1,1 @@
+This folder will contain the data and pretrained model artifacts for a named entity recognition model used in week 4.
